@@ -1,0 +1,16 @@
+# Ignore virtual environment
+myenv/
+
+# Ignore vector store files
+vectorstore_chroma/
+
+# Ignore cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment files
+.env
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
