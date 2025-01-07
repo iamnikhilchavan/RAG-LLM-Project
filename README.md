@@ -52,7 +52,7 @@ RAG-LLM/
 ### Option 1: Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/RAG-LLM-Project.git
+   git clone https://github.com/iamnikhilchavan/RAG-LLM-Project.git
    cd RAG-LLM-Project
    ```
 
